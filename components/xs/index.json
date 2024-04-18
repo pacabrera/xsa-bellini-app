@@ -1,0 +1,15 @@
+{
+  "type": "custom-component",
+  "name": "xs",
+  "nodeName": null,
+  "description": null,
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "marketplaceId": null,
+  "formControl": null,
+  "transclude": null,
+  "externalScripts": [],
+  "externalStylesheets": []
+}
